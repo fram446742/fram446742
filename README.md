@@ -105,7 +105,7 @@ As a third-year computer engineering student, I’m building a solid foundation 
 ### ✍️ Random Dev Quote
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote"/><br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/><br/>
 </div>
 
 ### 🔝 Top Contributed Repo
