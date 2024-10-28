@@ -4,7 +4,13 @@ As a third-year computer engineering student, I’m building a solid foundation 
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/753775310574583820) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fram_vlz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-martin-velez-manrique/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Last_Raise9661/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27100884/fram446742) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@franciscomartinvelezmanriq9685) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Francisco-Mart-n-V-lez-Manrique)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/753775310574583820)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584.svg?logo=Instagram&logoColor=white)](https://instagram.com/fram_vlz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-martin-velez-manrique/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Last_Raise9661/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27100884/fram446742)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@franciscomartinvelezmanriq9685)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Francisco-Mart-n-V-lez-Manrique)
 
 # 💻 Tech Stack
 
@@ -77,39 +83,39 @@ As a third-year computer engineering student, I’m building a solid foundation 
 
 <div align="center">
     <picture>
-        <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=fram446742&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api?username=fram446742&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+        <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=fram446742&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api?username=fram446742&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
     </picture>
     <picture>
-        <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fram446742&theme=github_dark&hide_border=false&layout=compact">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fram446742&theme=github_dark&hide_border=false" alt="GitHub Streak"/><br/>
+        <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fram446742&theme=highcontrast&hide_border=false&layout=compact">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fram446742&theme=highcontrast&hide_border=false" alt="GitHub Streak"/><br/>
     </picture>
     <picture>
-        <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fram446742&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fram446742&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+        <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fram446742&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fram446742&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </picture>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fram446742&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies"/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fram446742&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies"/><br/>
 </div>
 
 ### ✍️ Random Dev Quote
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/><br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote"/><br/>
 </div>
 
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=fram446742&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=fram446742&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br/>
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fram446742&icon=0&color=13)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=fram446742&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 
